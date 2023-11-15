@@ -19,8 +19,8 @@ You can look up my [Website](www.Timm-Eichholz.de) and find some projects I did 
 
 ### before IT was a thing
 
-before I started to learn programming I worked as an accountant
+Before I started to learn programming I worked as an _accountant_
 
 ### apart from programming
 
-In my freetime I play DnD, do some sports and play video games
+In my freetime I play **DnD**, do some **sports** and play **video games**
